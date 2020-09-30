@@ -1,0 +1,17 @@
+D:\PTIT\HK8\Chuyên đề Công nghệ phần mềm\FINAL\Detai3\Cursor\Cursor\obj\Debug\Cursor.csprojAssemblyReference.cache
+D:\PTIT\HK8\Chuyên đề Công nghệ phần mềm\FINAL\Detai3\Cursor\Cursor\obj\Debug\Cursor.Form1.resources
+D:\PTIT\HK8\Chuyên đề Công nghệ phần mềm\FINAL\Detai3\Cursor\Cursor\obj\Debug\Cursor.Properties.Resources.resources
+D:\PTIT\HK8\Chuyên đề Công nghệ phần mềm\FINAL\Detai3\Cursor\Cursor\obj\Debug\Cursor.csproj.GenerateResource.cache
+D:\PTIT\HK8\Chuyên đề Công nghệ phần mềm\FINAL\Detai3\Cursor\Cursor\obj\Debug\Cursor.csproj.CoreCompileInputs.cache
+D:\PTIT\HK8\ChuyenDeCNPM\FINAL\Detai3\Cursor\Cursor\bin\Debug\Cursor.exe.config
+D:\PTIT\HK8\ChuyenDeCNPM\FINAL\Detai3\Cursor\Cursor\bin\Debug\Cursor.exe
+D:\PTIT\HK8\ChuyenDeCNPM\FINAL\Detai3\Cursor\Cursor\bin\Debug\Cursor.pdb
+D:\PTIT\HK8\ChuyenDeCNPM\FINAL\Detai3\Cursor\Cursor\obj\Debug\Cursor.CancelCP.resources
+D:\PTIT\HK8\ChuyenDeCNPM\FINAL\Detai3\Cursor\Cursor\obj\Debug\Cursor.Form1.resources
+D:\PTIT\HK8\ChuyenDeCNPM\FINAL\Detai3\Cursor\Cursor\obj\Debug\Cursor.Properties.Resources.resources
+D:\PTIT\HK8\ChuyenDeCNPM\FINAL\Detai3\Cursor\Cursor\obj\Debug\Cursor.SetTrade.resources
+D:\PTIT\HK8\ChuyenDeCNPM\FINAL\Detai3\Cursor\Cursor\obj\Debug\Cursor.csproj.GenerateResource.cache
+D:\PTIT\HK8\ChuyenDeCNPM\FINAL\Detai3\Cursor\Cursor\obj\Debug\Cursor.csproj.CoreCompileInputs.cache
+D:\PTIT\HK8\ChuyenDeCNPM\FINAL\Detai3\Cursor\Cursor\obj\Debug\Cursor.exe
+D:\PTIT\HK8\ChuyenDeCNPM\FINAL\Detai3\Cursor\Cursor\obj\Debug\Cursor.pdb
+D:\PTIT\HK8\ChuyenDeCNPM\FINAL\Detai3\Cursor\Cursor\obj\Debug\Cursor.csprojAssemblyReference.cache

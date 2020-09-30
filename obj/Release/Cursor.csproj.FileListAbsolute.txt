@@ -1,0 +1,12 @@
+D:\PTIT\HK8\ChuyenDeCNPM\FINAL\Detai3\Cursor\Cursor\bin\Release\Cursor.exe.config
+D:\PTIT\HK8\ChuyenDeCNPM\FINAL\Detai3\Cursor\Cursor\bin\Release\Cursor.exe
+D:\PTIT\HK8\ChuyenDeCNPM\FINAL\Detai3\Cursor\Cursor\bin\Release\Cursor.pdb
+D:\PTIT\HK8\ChuyenDeCNPM\FINAL\Detai3\Cursor\Cursor\obj\Release\Cursor.CancelCP.resources
+D:\PTIT\HK8\ChuyenDeCNPM\FINAL\Detai3\Cursor\Cursor\obj\Release\Cursor.Form1.resources
+D:\PTIT\HK8\ChuyenDeCNPM\FINAL\Detai3\Cursor\Cursor\obj\Release\Cursor.Properties.Resources.resources
+D:\PTIT\HK8\ChuyenDeCNPM\FINAL\Detai3\Cursor\Cursor\obj\Release\Cursor.SetTrade.resources
+D:\PTIT\HK8\ChuyenDeCNPM\FINAL\Detai3\Cursor\Cursor\obj\Release\Cursor.csproj.GenerateResource.cache
+D:\PTIT\HK8\ChuyenDeCNPM\FINAL\Detai3\Cursor\Cursor\obj\Release\Cursor.csproj.CoreCompileInputs.cache
+D:\PTIT\HK8\ChuyenDeCNPM\FINAL\Detai3\Cursor\Cursor\obj\Release\Cursor.exe
+D:\PTIT\HK8\ChuyenDeCNPM\FINAL\Detai3\Cursor\Cursor\obj\Release\Cursor.pdb
+D:\PTIT\HK8\ChuyenDeCNPM\FINAL\Detai3\Cursor\Cursor\obj\Release\Cursor.csprojAssemblyReference.cache
